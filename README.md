@@ -1,6 +1,6 @@
 # minecraft-with-modding-camp  
 
-## Minecraft with Modding Summer Camp  
+## Minecraft with Modding Summer Camp Repository  
 
 ### Setup Slides  
 
