@@ -11,6 +11,7 @@
 
     * Older → Java  
       * Minecraft (MC) modding tools setup  
+        * Perform this on Tech Em macs or camper's laptops  
       * Creating mods from ground-up with Java
 
 ### Programming Fundamentals  
