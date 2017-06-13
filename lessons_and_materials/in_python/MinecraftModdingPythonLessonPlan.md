@@ -7,7 +7,7 @@
 ## Day 2  
 
   * Give a brief introduction to python and type up the code for the coordinates program  
-  * Write the code for magic bridge program  
+  * Write the code for magic bridge  program  
 
 ## Day 3  
 
