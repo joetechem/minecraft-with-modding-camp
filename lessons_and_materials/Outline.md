@@ -48,10 +48,10 @@ From day one in Minecraft Modding Python Lesson Plan:
 
 #### Python Minecraft Mod Group  
 
-* Continue with Minecraft Modding Python Lesson Plan
+* Continue with [Minecraft Modding Python Lesson Plan](https://github.com/joetechem/minecraft-with-modding-camp/blob/master/lessons_and_materials/in_python/MinecraftModdingPythonLessonPlan.md)  
   - Starting at introduction to Python  
 
 #### Java Minecraft Mod Group  
 
 * Continue with Minecraft Modding Java Lesson Plan  
-  - Starting introduction to Java, then onto setting up the laptops to start creating Minecraft Mods in Java  
+  - Starting introduction to Java, then onto [setting up the laptops to start creating Minecraft Mods in Java](https://github.com/joetechem/minecraft-with-modding-camp/blob/master/lessons_and_materials/mc_modding_setup_slides.pdf)  
