@@ -19,10 +19,10 @@
       * Minecraft (MC) modding tools setup  
         * Perform this on Tech Em macs or camper's laptops  
       * Creating mods from ground-up with Java
-      
-    
 
-### Programming Fundamentals  
+
+
+## Programming Fundamentals  
 
 Go over as a class, what programming and coding is.  
 
@@ -32,8 +32,26 @@ People using programming languages to write their instructions for computers.
 
 There are thousands of programming languages, in this camp we will focus on two popular languages, Java and Python.  
 
-Minecraft is coded using
+Minecraft is coded using the language Java.  
 
+Some of us will be learning how to edit/write Minecraft mods using Python and some of us will be learning how to edit/write them using Java. We can even learn both!  
 
+## Minecraft Basics  
 
+From day one in Minecraft Modding Python Lesson Plan:  
 
+* Go over basics of minecraft coordinate system (x, y, z)  
+
+* Get everybody comfortable with the commands for the server  
+
+## Break Off Into Groups  
+
+#### Python Minecraft Mod Group  
+
+* Continue with Minecraft Modding Python Lesson Plan
+  - Starting at introduction to Python  
+
+#### Java Minecraft Mod Group  
+
+* Continue with Minecraft Modding Java Lesson Plan  
+  - Starting introduction to Java, then onto setting up the laptops to start creating Minecraft Mods in Java  
