@@ -2,6 +2,8 @@
 
 #### Monday  
 
+***  
+
 ### Introductions and Experiences
 
 ## Introduce yourself
@@ -18,9 +20,9 @@
     * Older → Java  
       * Minecraft (MC) modding tools setup  
         * Perform this on Tech Em macs or camper's laptops  
-      * Creating mods from ground-up with Java
+      * Creating mods from ground-up with Java  
 
-
+***  
 
 ## Programming Fundamentals  
 
@@ -36,6 +38,8 @@ Minecraft is coded using the language Java.
 
 Some of us will be learning how to edit/write Minecraft mods using Python and some of us will be learning how to edit/write them using Java. We can even learn both!  
 
+***  
+
 ## Minecraft Basics  
 
 From day one in Minecraft Modding Python Lesson Plan:  
@@ -43,6 +47,8 @@ From day one in Minecraft Modding Python Lesson Plan:
 * Go over basics of minecraft coordinate system (x, y, z)  
 
 * Get everybody comfortable with the commands for the server  
+
+***  
 
 ## Break Off Into Groups  
 
