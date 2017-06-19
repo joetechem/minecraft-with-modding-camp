@@ -22,9 +22,9 @@ Computers follow step-by-step instructions to peform some action (program) from 
 
 People use programming languages to write instructions for computers.  
 
-COMPUTER FETCH THESE INSTRUCTIONS, DECODE THEM, AND EXECUTE THEM.
+COMPUTERS FETCH THESE INSTRUCTIONS, DECODE THEM, AND EXECUTE THEM.
 
-This is what happens when you start your favorite and this is what happens from the moment you turn on your computer!
+This is what happens when you start your favorite game and this is what happens from the moment you turn on your computer!
 
 There are thousands of programming languages, in this camp we will focus on two popular languages, Java and Python.  
 
