@@ -14,10 +14,10 @@
 
 * Determine ages and experience levels  
   * PE, PC, mods, programming  
-    * Younger → Python or Java (any preference?)  
+    * **GROUP 1** → Python or Java (any preference?)  
       * Walkthrough modding by editing existing mods in Python   
 
-    * Older → Java  
+    * **GROUP 2** → Java  
       * Minecraft (MC) modding tools setup  
         * Perform this on Tech Em macs or camper's laptops  
       * Creating mods from ground-up with Java  
