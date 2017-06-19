@@ -26,7 +26,7 @@
 
 ## Programming Fundamentals  
 
-Go over as a class, what programming and coding is.  
+What is **programming** and **coding**?
 
 Computers follow step-by-step instructions to peform some action (program) from the user.  
 
