@@ -10,7 +10,29 @@
  * Name
  * Age
  * Minecraft Experience: do you play on the PC, iPad?
- * Any coding experience?
+ * Any coding experience?  
+
+***  
+
+## Programming Fundamentals  
+
+What is **programming** and **coding**?
+
+Computers follow step-by-step instructions to peform some action (program) from the user.  
+
+People use programming languages to write instructions for computers.  
+
+COMPUTER FETCH THESE INSTRUCTIONS, DECODE THEM, AND EXECUTE THEM.
+
+This is what happens when you start your favorite and this is what happens from the moment you turn on your computer!
+
+There are thousands of programming languages, in this camp we will focus on two popular languages, Java and Python.  
+
+Minecraft is coded using the language Java.  
+
+Some of us will be learning how to edit/write Minecraft mods using Python and some of us will be learning how to edit/write them using Java. We can even learn both!  
+
+***  
 
 * Determine ages and experience levels  
   * PE, PC, mods, programming  
@@ -24,21 +46,7 @@
 
 ***  
 
-## Programming Fundamentals  
 
-What is **programming** and **coding**?
-
-Computers follow step-by-step instructions to peform some action (program) from the user.  
-
-People using programming languages to write their instructions for computers.  
-
-There are thousands of programming languages, in this camp we will focus on two popular languages, Java and Python.  
-
-Minecraft is coded using the language Java.  
-
-Some of us will be learning how to edit/write Minecraft mods using Python and some of us will be learning how to edit/write them using Java. We can even learn both!  
-
-***  
 
 ## Minecraft Basics  
 
